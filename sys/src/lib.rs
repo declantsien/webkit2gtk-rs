@@ -3094,8 +3094,8 @@ impl ::std::fmt::Debug for WebKitPermissionRequest {
   }
 }
 
-#[link(name = "webkit2gtk-4.0")]
-#[link(name = "javascriptcoregtk-4.0")]
+#[link(name = "webkit2gtk-4.1")]
+#[link(name = "javascriptcoregtk-4.1")]
 extern "C" {
 
   //=========================================================================
